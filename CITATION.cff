@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "XBRL Geographic Revenue: US public firms' revenue by country and region"
+version: 1.0.0
+date-released: 2026-10-29
+license: CC-BY-4.0
+authors:
+  - given-names: Ahmed
+    family-names: "FILL IN"
+keywords:
+  - geographic segments
+  - foreign sales
+  - XBRL
+  - SEC
+  - multinational firms
+abstract: >-
+  Revenue by country and region for US-listed firms, fiscal 2011-2025, rebuilt from the SEC Financial Statement and
+  Notes data sets. 23,072 annual reports from 3,404 firms. Agrees with Compustat first-reported geographic segments
+  in 90.9% of held-out firm-years.
