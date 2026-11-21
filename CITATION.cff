@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 title: "XBRL Geographic Revenue: US public firms' revenue by country and region"
 version: 1.0.0
-date-released: 2026-10-29
+date-released: 2026-11-21
 license: CC-BY-4.0
 authors:
   - given-names: Ahmed
