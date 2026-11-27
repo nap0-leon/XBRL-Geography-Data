@@ -76,9 +76,9 @@ The ISO3 codes each region name holds, for example `EMEA`, `AsiaPacific` or `Eur
 Membership comes from the Harvard Growth Lab country groups (CC0). `read == False` marks a name no rule can read
 (`Other`, `SegmentGeographicalGroupsOfCountriesGroupOne`). Those hold an unknown set of countries, never an empty one.
 
-## What the data is and is not
+## A note on self-reporting
 
-- **As reported.** Each firm chooses its own split. US rules (ASC 280) require revenue for the country of domicile
+- **Data as reported.** Each firm chooses its own split. US rules (ASC 280) require revenue for the country of domicile
   and for each material foreign country. Many firms report regions (`Europe`, `Rest of world`) and few countries.
   46.7% of filings (10,774 of 23,072) name at least one foreign country. This is a panel of reported geography, not a full
   firm-by-country matrix.
@@ -94,7 +94,7 @@ Membership comes from the Harvard Growth Lab country groups (CC0). `read == Fals
   2011. Fiscal 2026 is a stub (84 filings). 55 filings up to 2025 have no total revenue fact of their own, so
   `filing_revenue_musd` is blank there.
 
-## Validation in one paragraph
+## A note on validation
 
 The rules were tuned on fiscal 2020-2022 and frozen before fiscal 2023-2026 were examined. On those held-out 4,706
 firm-years, the data agrees with Compustat first-reported geographic segments in 90.9% and clearly differs in 0.8%.
