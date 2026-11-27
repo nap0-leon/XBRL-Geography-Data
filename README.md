@@ -148,7 +148,7 @@ Japan, Mexico, Australia, Brazil, South Korea, France, Taiwan, Italy.
   customer segment file.
 - **Assets by country.** The extraction already keeps long-lived assets by geography. A later release can add them.
 - **v1.1: add kind = elimination.**
-- **Annual updates.** Each new SEC quarter adds filings; the rules stay frozen.
+- **Annual updates.** Each new SEC quarter adds filings! 
 
 ## How it was built
 
